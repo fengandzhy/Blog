@@ -47,8 +47,8 @@ Of course, this is just a preliminary plan. I will add more special columns into
 ## Catalog
 
 > ### JavaScript   
-> 		#### Basic Content
+> #### Basic Content
 
-> 		#### Fragmentary Knowledge
+> #### Fragmentary Knowledge
 
 
