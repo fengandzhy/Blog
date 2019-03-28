@@ -12,42 +12,11 @@ Everything I show here is based on my understanding, I cannot make sure there is
 
 What I can make sure is every code I paste here could be found in my repositories and has been run at least two times by myself.
 
-## Introduction
-
-I will divide my knowledge system into different special columns and the articles in a special column is no order. At present, I will divide my articles into these special columns.
-
-* Java
-
-* Spring 5
-
-* Spring Boot
-
-* Spring MVC
-
-* Hibernate 5
-
-* MyBatis 3
-
-* JavaScript
-
-* ECMAScript 6
-
-* NodeJS
-
-* ReactJS
-
-* AngularJS
-
-* VUE
-
-* Angular
-
-Of course, this is just a preliminary plan. I will add more special columns into my bloger and I will divide a big column into several small columns.
+I will divide my articles into different special columns and the articles in a special column is no order.
 
 ## Catalog
 
 > ### JavaScript   
-> #### Basic Content
 > #### Fragmentary Knowledge
 1. [Conversion between strings and objects](https://github.com/fengandzhy/Blog/issues/3)
 
