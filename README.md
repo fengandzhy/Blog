@@ -12,7 +12,7 @@ Everything I show here is based on my understanding, I cannot make sure there is
 
 What I can make sure is every code I paste here could be found in my repositories and has been run at least two times by myself.
 
-I will divide my articles into different special columns and the articles in a special column is no order.
+I will divide my articles into different special columns and the articles in a special column are no order.
 
 ## Catalog
 
@@ -20,4 +20,6 @@ I will divide my articles into different special columns and the articles in a s
 > #### Fragmentary Knowledge
 1. [Conversion between strings and objects](https://github.com/fengandzhy/Blog/issues/3)
 
-
+> ### Java   
+> #### Fragmentary Knowledge
+1. [Conversion between strings and objects](https://github.com/fengandzhy/Blog/issues/3)
