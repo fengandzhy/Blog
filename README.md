@@ -21,5 +21,9 @@ I will divide my articles into different special columns and the articles in a s
 1. [Conversion between strings and objects](https://github.com/fengandzhy/Blog/issues/3)
 
 > ### Java   
-> #### Fragmentary Knowledge
+> #### String manipulation
+1. [String Sorting](https://github.com/fengandzhy/Blog/issues/4)
+
+> ### Node   
+> #### Basic Knowledge
 1. [String Sorting](https://github.com/fengandzhy/Blog/issues/4)
