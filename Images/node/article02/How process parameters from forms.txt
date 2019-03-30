@@ -1,0 +1,53 @@
+
+As a program running in the server side, NodeJs definitely needs to process the parameters submitted by forms. In this article, I will show you how does node process parameters submitted by forms 
+
+generally speaking, there are two way for a form to submit its parameters to a server----post and get. That is to say, forms usually use 'post' request or 'get' requets to submit their paramters to the server.
+
+Of course, these two ways are quite different in submiting parameters, node will process parameters with different way. 
+
+In order to clarify the ways in which node process the parameters it is necessary to clarify the difference between 'post' and 'get'.
+
+'post' and 'get' are two different requests, there is some difference between them, we just talk about the difference in transmitting parameters here. As for other differences, I will write another article to talk about them.
+
+In order to clarify the difference between 'post' regquest and 'get' request in transmitting data to the server, we submit a form with ajax. 
+
+when we use 'get' request, the code fragment likes that 
+```js
+ajax.open('get',json.url+'?'+JsonToString(json.data),true); //json.data is the form data and JsonToString is responsible for transfer the json object to string
+ajax.send();
+```
+when we use 'post' request, the code fragment likes that 
+```js
+ajax.open('post',json.url,true);
+ajax.setRequestHeader("Content-Type","application/x-www-form-urlencoded");
+ajax.send(JsonToString(json.data));
+```
+
+## conslusion
+from the above two code fragments, it can be concluded that when we use 'get', the form data will be added to the end of url, when we use 'post' the form data will be add into the request body. 
+
+## process by node 
+
+when the regquest is 'get' we can use below code fragment to get a json object that comprised by the form data. 
+```js
+var urlLib = require('url');
+var json = urlLib.parse(request.url,true).query;//json the the object comprised by the form data. 
+```
+when the regquest is 'post' we can use below code fragment to get a json object that comprised by the form data. 
+```js
+var querystring = require('querystring');
+var str = '';
+request.on('data',function(data){ //Continuously accept data form the request body 
+	str += data;
+});
+
+request.on('end',function(){ //when the regquest body is over then tansfer the data to a json object 
+	console.log(str);
+	var json = querystring.parse(str);//json the the object comprised by the form data. 
+}); 
+```  
+
+## conslusion
+from the above two code fragments, it can be concluded that when the form data is submitted by a 'get' regquest, it is very easy to process however it is not secure. 
+
+when the form data is submitted by a 'post' request, it is secure enough, however it is not easy to process 
