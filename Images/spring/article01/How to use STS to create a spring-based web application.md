@@ -51,6 +51,7 @@ Then you can see the basic jar files required by spirng are imported to your pro
 Then we need to create the 'bean configuration' xml file. In this project, we usually put the configuration files in the directory 'src/main/resource' 
 right click the directory and choose the 'Spring Bean Configuration file', this option only can be seen in STS or the Eclipse which has been installed a spring plugin.
 ![image](https://github.com/fengandzhy/Blog/raw/master/Images/spring/article01/11.png)
+![image](https://github.com/fengandzhy/Blog/raw/master/Images/spring/article01/12.png)
 
 
 

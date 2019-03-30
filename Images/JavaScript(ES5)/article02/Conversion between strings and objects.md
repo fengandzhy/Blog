@@ -34,7 +34,7 @@ the result is
 ## conslusion
 
 In JavaScript, JSON.stringify() is used to convert an object(normally is json or arry) to string. JSON.parse() is used to convert a tring to an object. 
-```xml
+```js
 console.log(aToStr);
 console.log(bToObj);
 console.log(typeof(aToStr));//string
