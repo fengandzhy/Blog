@@ -24,7 +24,7 @@ I will divide my articles into different special columns and the articles in a s
 > #### String Manipulation
 1. [String Sorting](https://github.com/fengandzhy/Blog/issues/4)
 > #### new Feature of Java8
-1. [Lambda Expression](https://github.com/fengandzhy/Blog/issues/4)
+1. [Lambda Expression](https://github.com/fengandzhy/Blog/issues/7)
 
 
 > ### Node   
