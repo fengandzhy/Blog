@@ -26,9 +26,14 @@ I will divide my articles into different special columns and the articles in a s
 > #### new Feature of Java8
 1. [Lambda Expression](https://github.com/fengandzhy/Blog/issues/7)
 2. [method reference](https://github.com/fengandzhy/Blog/issues/8)
+<<<<<<< HEAD
 3. [create a Stream](https://github.com/fengandzhy/Blog/issues/9)
 
 > ### NodeJS   
+=======
+
+> ### Node   
+>>>>>>> 32f472e7465066ec87516233d7673b7dc1434ca5
 > #### Basic Knowledge
 1. [How process parameters from forms](https://github.com/fengandzhy/Blog/issues/5)
 
@@ -37,4 +42,4 @@ I will divide my articles into different special columns and the articles in a s
 1. [How to use STS to create a spring-based web application](https://github.com/fengandzhy/Blog/issues/6)
 
 > ### Some useful tips   
-1. [How to kill a process that bind a port](https://github.com/fengandzhy/Blog/issues/7)
+1. [How to kill a process binding a certain port](https://github.com/fengandzhy/Blog/issues/10)
