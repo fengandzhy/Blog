@@ -42,4 +42,7 @@ I will divide my articles into different special columns and the articles in a s
 1. [How to use STS to create a spring-based web application](https://github.com/fengandzhy/Blog/issues/6)
 
 > ### Some useful tips   
-1. [How to kill a process binding a certain port](https://github.com/fengandzhy/Blog/issues/10)
+1. [How to kill a process binding a certain port in Windows](https://github.com/fengandzhy/Blog/issues/10)
+
+> ### git   
+1. [How to deal with a conflict between local and remote repository](https://github.com/fengandzhy/Blog/issues/11)
