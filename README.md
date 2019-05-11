@@ -26,14 +26,11 @@ I will divide my articles into different special columns and the articles in a s
 > #### new Feature of Java8
 1. [Lambda Expression](https://github.com/fengandzhy/Blog/issues/7)
 2. [method reference](https://github.com/fengandzhy/Blog/issues/8)
-<<<<<<< HEAD
 3. [create a Stream](https://github.com/fengandzhy/Blog/issues/9)
 
-> ### NodeJS   
-=======
 
-> ### Node   
->>>>>>> 32f472e7465066ec87516233d7673b7dc1434ca5
+
+> ### NodeJS
 > #### Basic Knowledge
 1. [How process parameters from forms](https://github.com/fengandzhy/Blog/issues/5)
 
@@ -46,3 +43,6 @@ I will divide my articles into different special columns and the articles in a s
 
 > ### git   
 1. [How to deal with a conflict between local and remote repository](https://github.com/fengandzhy/Blog/issues/11)
+
+> ### Hibernate
+1. [The configuration details of hibernate.hbm2ddl.auto](https://github.com/fengandzhy/Blog/issues/12) 
