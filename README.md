@@ -24,13 +24,17 @@ I will divide my articles into different special columns and the articles in a s
 > #### String Manipulation
 1. [String Sorting](https://github.com/fengandzhy/Blog/issues/4)
 > #### new Feature of Java8
-1. [Lambda Expression](https://github.com/fengandzhy/Blog/issues/4)
+1. [Lambda Expression](https://github.com/fengandzhy/Blog/issues/7)
+2. [method reference](https://github.com/fengandzhy/Blog/issues/8)
+3. [create a Stream](https://github.com/fengandzhy/Blog/issues/9)
 
-
-> ### Node   
+> ### NodeJS   
 > #### Basic Knowledge
 1. [How process parameters from forms](https://github.com/fengandzhy/Blog/issues/5)
 
 
 > ### Spring Framework   
 1. [How to use STS to create a spring-based web application](https://github.com/fengandzhy/Blog/issues/6)
+
+> ### Some useful tips   
+1. [How to kill a process that bind a port](https://github.com/fengandzhy/Blog/issues/7)
