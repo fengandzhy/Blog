@@ -40,9 +40,12 @@ I will divide my articles into different special columns and the articles in a s
 
 > ### Some useful tips   
 1. [How to kill a process binding a certain port in Windows](https://github.com/fengandzhy/Blog/issues/10)
+2. [How to add a package setting to a sublime text](https://github.com/fengandzhy/Blog/issues/13)
 
 > ### git   
 1. [How to deal with a conflict between local and remote repository](https://github.com/fengandzhy/Blog/issues/11)
 
 > ### Hibernate
 1. [The configuration details of hibernate.hbm2ddl.auto](https://github.com/fengandzhy/Blog/issues/12) 
+
+
