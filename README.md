@@ -27,7 +27,7 @@ I will divide my articles into different special columns and the articles in a s
 1. [Lambda Expression](https://github.com/fengandzhy/Blog/issues/7)
 2. [method reference](https://github.com/fengandzhy/Blog/issues/8)
 3. [create a Stream](https://github.com/fengandzhy/Blog/issues/9)
-4. [What's the difference between map and flatMap in Java 8](https://github.com/fengandzhy/Blog/issues/13)
+4. [What's the difference between map and flatMap in Java 8](https://github.com/fengandzhy/Blog/issues/14)
 
 
 
