@@ -14,16 +14,16 @@ What I can make sure is every code I paste here could be found in my repositorie
 
 I will divide my articles into different special columns and the articles in a special column are no order.
 
-## Catalog
 
-> ### JavaScript   
-> #### Fragmentary Knowledge
+
+> ## JavaScript 
 1. [Conversion between strings and objects](https://github.com/fengandzhy/Blog/issues/3)
 
-> ### Java   
-> #### String Manipulation
+> ## Java   
+
 1. [String Sorting](https://github.com/fengandzhy/Blog/issues/4)
-> #### new Feature of Java8
+
+> ## new Feature of Java8
 1. [Lambda Expression](https://github.com/fengandzhy/Blog/issues/7)
 2. [method reference](https://github.com/fengandzhy/Blog/issues/8)
 3. [create a Stream](https://github.com/fengandzhy/Blog/issues/9)
@@ -31,22 +31,21 @@ I will divide my articles into different special columns and the articles in a s
 
 
 
-> ### NodeJS
-> #### Basic Knowledge
+> ## NodeJS
 1. [How process parameters from forms](https://github.com/fengandzhy/Blog/issues/5)
 
 
-> ### Spring Framework   
+> ## Spring Framework   
 1. [How to use STS to create a spring-based web application](https://github.com/fengandzhy/Blog/issues/6)
 
-> ### Some useful tips   
+> ## Some useful tips   
 1. [How to kill a process binding a certain port in Windows](https://github.com/fengandzhy/Blog/issues/10)
 2. [How to add a package setting to a sublime text](https://github.com/fengandzhy/Blog/issues/13)
 
-> ### git   
+> ## git   
 1. [How to deal with a conflict between local and remote repository](https://github.com/fengandzhy/Blog/issues/11)
 
-> ### Hibernate
+> ## Hibernate
 1. [The configuration details of hibernate.hbm2ddl.auto](https://github.com/fengandzhy/Blog/issues/12) 
 
 
