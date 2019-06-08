@@ -46,4 +46,7 @@ I will divide my articles into different special columns and the articles in a s
 ## Hibernate
 1. [The configuration details of hibernate.hbm2ddl.auto](https://github.com/fengandzhy/Blog/issues/12) 
 
+## Spring Boot
+1. [How to build a spring boot project with STS](https://github.com/fengandzhy/Blog/issues/15) 
+2. [How to deal with the problems caused by cross-domain policy](https://github.com/fengandzhy/Blog/issues/16) 
 
