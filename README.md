@@ -42,6 +42,7 @@ I will divide my articles into different special columns and the articles in a s
 
 ## git   
 1. [How to deal with a conflict between local and remote repository](https://github.com/fengandzhy/Blog/issues/11)
+2. [How to deal with  Unable to create /path/.git/index.lock: File exists](https://github.com/fengandzhy/Blog/issues/17)
 
 ## Hibernate
 1. [The configuration details of hibernate.hbm2ddl.auto](https://github.com/fengandzhy/Blog/issues/12) 
