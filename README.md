@@ -21,31 +21,31 @@ I will divide my articles into different special columns and the articles in a s
 
 1. [String Sorting](https://github.com/fengandzhy/Blog/issues/4)
 2. [Lambda Expression](https://github.com/fengandzhy/Blog/issues/7)
-3. [method reference](https://github.com/fengandzhy/Blog/issues/8)
-4. [create a Stream](https://github.com/fengandzhy/Blog/issues/9)
+3. [Method reference](https://github.com/fengandzhy/Blog/issues/8)
+4. [How to create a Stream](https://github.com/fengandzhy/Blog/issues/9)
 5. [What's the difference between map and flatMap in Java 8](https://github.com/fengandzhy/Blog/issues/14)
 
-
-
-## NodeJS
-1. [How process parameters from forms](https://github.com/fengandzhy/Blog/issues/5)
-
+## Spring Boot
+1. [How to build a spring boot project with STS](https://github.com/fengandzhy/Blog/issues/15) 
+2. [How to deal with the problems caused by cross-domain policy](https://github.com/fengandzhy/Blog/issues/16) 
 
 ## Spring Framework   
 1. [How to use STS to create a spring-based web application](https://github.com/fengandzhy/Blog/issues/6)
 
-## Some useful tips   
-1. [How to kill a process binding a certain port in Windows](https://github.com/fengandzhy/Blog/issues/10)
-2. [How to add a package setting to a sublime text](https://github.com/fengandzhy/Blog/issues/13)
+
+## Hibernate
+1. [The configuration details of hibernate.hbm2ddl.auto](https://github.com/fengandzhy/Blog/issues/12) 
+
+## NodeJS
+1. [How process parameters from forms](https://github.com/fengandzhy/Blog/issues/5)
 
 ## git   
 1. [How to deal with a conflict between local and remote repository](https://github.com/fengandzhy/Blog/issues/11)
 2. [How to deal with  Unable to create /path/.git/index.lock: File exists](https://github.com/fengandzhy/Blog/issues/17)
 
-## Hibernate
-1. [The configuration details of hibernate.hbm2ddl.auto](https://github.com/fengandzhy/Blog/issues/12) 
+## Some useful tips   
+1. [How to kill a process binding a certain port in Windows](https://github.com/fengandzhy/Blog/issues/10)
+2. [How to add a package setting to a sublime text](https://github.com/fengandzhy/Blog/issues/13)
 
-## Spring Boot
-1. [How to build a spring boot project with STS](https://github.com/fengandzhy/Blog/issues/15) 
-2. [How to deal with the problems caused by cross-domain policy](https://github.com/fengandzhy/Blog/issues/16) 
+
 
