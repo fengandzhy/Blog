@@ -14,9 +14,6 @@ I will divide my articles into different special columns and the articles in a s
 
 
 
-## JavaScript 
-1. [Conversion between strings and objects](https://github.com/fengandzhy/Blog/issues/3)
-
 ## Java   
 
 1. [String Sorting](https://github.com/fengandzhy/Blog/issues/4)
@@ -35,6 +32,9 @@ I will divide my articles into different special columns and the articles in a s
 
 ## Hibernate
 1. [The configuration details of hibernate.hbm2ddl.auto](https://github.com/fengandzhy/Blog/issues/12) 
+
+## JavaScript 
+1. [Conversion between strings and objects](https://github.com/fengandzhy/Blog/issues/3)
 
 ## NodeJS
 1. [How process parameters from forms](https://github.com/fengandzhy/Blog/issues/5)
