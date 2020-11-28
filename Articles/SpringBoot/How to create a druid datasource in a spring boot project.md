@@ -23,7 +23,7 @@ Database connection pooling for monitoring, It has a backend monitoring system h
 	<version>8.0.19</version>
 </dependency>
 ```
-2. **update the application.properties **
+2. **update the application.properties**
 ```
 spring.datasource.druid.type=com.alibaba.druid.pool.DruidDataSource
 spring.datasource.druid.url=jdbc:mysql://127.0.0.1:3306/springboot-o?useUnicode=true&characterEncoding=UTF-8&useSSL=false&serverTimezone=UTC
@@ -44,7 +44,7 @@ spring.datasource.druid.test-while-idle=true
 #连接保持空闲而不被驱逐的最长时间
 spring.datasource.druid.time-between-eviction-runs-millis=60000
 ```
-3. **create a config java class **
+3. **create a config java class**
 ```
 @Configuration
 public class DataSourceConfig {
@@ -56,7 +56,7 @@ public class DataSourceConfig {
     }
 }
 ```
-4. **unit test **
+4. **unit test**
 ```
 @Resource(name="druidDataSource")
 private DataSource dataSource;
