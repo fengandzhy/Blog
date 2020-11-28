@@ -26,7 +26,7 @@ I will divide my articles into different special columns and the articles in a s
 1. [How to build a spring boot project with STS](https://github.com/fengandzhy/Blog/issues/15) 
 2. [How to deal with the problems caused by cross-domain policy](https://github.com/fengandzhy/Blog/issues/16)
 3. [How to create a druid datasource in a spring boot project](https://github.com/fengandzhy/Blog/issues/18)  
-4. [How to process a request asynchronously in spring boot](https://github.com/fengandzhy/Blog/issues/19) 
+4. [How to process a request asynchronously in a spring boot project](https://github.com/fengandzhy/Blog/issues/19) 
 
 
 ## Spring Framework   
