@@ -82,10 +82,6 @@
 ------
 
 
-![image.png-12kB][1]
-
-
-  [1]: http://static.zybuluo.com/appartment/4zc5dzhnepm82utnkptyzazr/image.png
 
 
 
