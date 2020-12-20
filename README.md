@@ -38,7 +38,7 @@
 
 1. [How to use STS to create a spring-based web application](https://github.com/fengandzhy/Blog/issues/6)
 
-2. [How to create a complex object in spring](https://github.com/fengandzhy/Blog/issues/6)
+2. [How to create a complex object in spring](https://github.com/fengandzhy/Blog/issues/20)
 
 ------
 
