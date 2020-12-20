@@ -40,6 +40,8 @@
 
 2. [How to create a complex object in spring](https://github.com/fengandzhy/Blog/issues/20)
 
+3. [How to control the number of object creation](https://github.com/fengandzhy/Blog/issues/21)
+
 ------
 
 
