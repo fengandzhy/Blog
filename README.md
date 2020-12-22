@@ -42,6 +42,8 @@
 
 3. [How to control the number of object creation](https://github.com/fengandzhy/Blog/issues/21)
 
+4. [what the differences between **`BeanFactory`** and **`ApplicationContext`**](https://github.com/fengandzhy/Blog/issues/22)
+
 ------
 
 
