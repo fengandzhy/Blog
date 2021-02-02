@@ -30,10 +30,6 @@
 
 ------
 
-
-
-
-
 ## Spring Framework   
 
 1. [How to use STS to create a spring-based web application](https://github.com/fengandzhy/Blog/issues/6)
@@ -43,6 +39,12 @@
 3. [How to control the number of object creation](https://github.com/fengandzhy/Blog/issues/21)
 
 4. [what the differences between **`BeanFactory`** and **`ApplicationContext`**](https://github.com/fengandzhy/Blog/issues/22)
+
+------
+
+## Spring MVC   
+
+1. [How to build spring MVC environment in IDEA](https://github.com/fengandzhy/Blog/issues/23)
 
 ------
 
